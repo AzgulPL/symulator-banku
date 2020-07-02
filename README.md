@@ -1,1 +1,1 @@
-To mój pierwszy program
+To mój pierwszy program napisany w c++
